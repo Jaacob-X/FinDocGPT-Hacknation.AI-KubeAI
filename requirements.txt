@@ -1,0 +1,10 @@
+django
+djangorestframework
+django-cors-headers
+cognee
+edgartools
+openai
+python-dotenv
+psycopg2-binary
+requests
+google-genai

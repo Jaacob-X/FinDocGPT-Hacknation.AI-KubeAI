@@ -1,0 +1,6 @@
+OPENAI_API_KEY=your_openai_api_key_here
+COGNEE_API_KEY=your_cognee_api_key_here
+EDGAR_USER_AGENT=your_email@domain.com
+DEBUG=True
+SECRET_KEY=your_django_secret_key_here
+ALLOWED_HOSTS=localhost,127.0.0.1
